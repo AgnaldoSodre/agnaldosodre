@@ -2,6 +2,10 @@
 
 # 👊 Olá, Seja Bem-Vindo! 
 
+- ⌨ Desenvolvedor Front-end
+- 💙 Amante da Progamação
+- 👨‍💻 Aprendendo Node.js
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
