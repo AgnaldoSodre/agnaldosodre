@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "340px" align = "right" z-index = "1">
+<img src = "banner.gif" width = "340px" align = "right" z-index = 1>
 
 # 👊 Olá, Seja Bem-Vindo! 
 
