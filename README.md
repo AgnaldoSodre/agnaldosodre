@@ -1,8 +1,9 @@
-<img src = "banner.gif" width = "340px" align = "right">
-
-
 # 👊 Olá, Seja Bem-Vindo! 
 
+
+<img src = "banner.gif" width = "340px" align = "right">
+
+##
 
 - ⌨ Desenvolvedor Front-end
 - 💙 Amante da Progamação
