@@ -1,4 +1,5 @@
 # 👊 Olá, Seja Bem-Vindo! 
+<h3 align="left">Desenvolvedor Front-end • Estudante de Ciência da Computação</h3>
 
 
 <img src = "banner.gif" width = "340px" align = "right">
@@ -7,7 +8,7 @@
 
 - ⌨ Desenvolvedor Front-end
 - 💙 Amante da Progamação
-- 👨‍💻 Aprendendo Back-end
+- 👨‍💻 Aprendendo Back-end - MySQL e Node.js
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -19,8 +20,24 @@
 
 ##
 
-<div>
-  <a href="https://github.com/AgnaldoSodre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnaldosodre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldosodre&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+
+---
+
+## 🚀 Sobre mim
+
+
+Busco minha **primeira oportunidade profissional** na área — seja vaga júnior ou estágio — para aplicar meus conhecimentos, aprender com desafios reais e crescer dentro da área de desenvolvimento.
+
+---
+
+
+
+## 📫 Como falar comigo
+
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/guisodre/)*  
+- 📧 **Email:** *(junioropcr@gmail.com)*
+
+---
+
+<h3 align="center">✨ Obrigado por visitar meu perfil!</h3>
